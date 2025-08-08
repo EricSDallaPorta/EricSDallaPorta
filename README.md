@@ -1,6 +1,6 @@
 ### Olá! 👋 Me chamo Eric
 
-Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo, estou cursando o Técnico em Informática no Politécnico da Universidade Federal de Santa Maria.
+Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo, estou cursando o Técnico em Informática no período noturno também no Politécnico da mesma instituição.
 
 Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco aprofundar meu conhecimento, com foco especial em agilizar processos lentos.
 
