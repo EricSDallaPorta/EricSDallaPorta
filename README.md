@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou o Eric.
+### Olá! 👋 Me chamo Eric
 
 Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo, estou cursando o Técnico em Informática no Politécnico da Universidade Federal de Santa Maria.
 
@@ -29,6 +29,6 @@ Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco 
 
 ### **Conecte-se comigo:**
 
-* [GitHub][(https://github.com/ericdallap)](https://github.com/EricSDallaPorta)
+* [GitHub](https://github.com/EricSDallaPorta)
 * [E-mail](mailto:ericdasilvadalaporta@gmail.com)
 * [Instagram](https://www.instagram.com/ericwdallap/)
