@@ -1,16 +1,34 @@
-## Hi there 👋
+### Olá! 👋 Eu sou o Eric.
 
-<!--
-**EricSDallaPorta/EricSDallaPorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, sou estudante de Engenharia de Computação na UFSM em período integral e, ao mesmo tempo, estou cursando o Técnico em Informática no Politécnico da Universidade Federal de Santa Maria.
 
-Here are some ideas to get you started:
+Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco aprofundar meu conhecimento, com foco especial em agilizar processos lentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### **Minhas Competências**
+
+| Competência | Nível de Proficiência |
+| :--- | :--- |
+| C | 9/10 |
+| C++ | 9/10 |
+| Java | 7/10 |
+| JavaScript | 9/10 |
+| Angular | 9/10 |
+| Bootstrap | 10/10 |
+| HTML, CSS e JS | 10/10 |
+
+---
+
+### **Formação Acadêmica**
+
+* **Engenharia de Computação** - Universidade Federal de Santa Maria (UFSM)
+* **Técnico em Informática** - Politécnico da Universidade Federal de Santa Maria
+
+---
+
+### **Conecte-se comigo:**
+
+* [GitHub][(https://github.com/ericdallap)](https://github.com/EricSDallaPorta)
+* [E-mail](mailto:ericdasilvadalaporta@gmail.com)
+* [Instagram](https://www.instagram.com/ericwdallap/)
