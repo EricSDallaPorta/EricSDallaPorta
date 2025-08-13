@@ -4,7 +4,7 @@ Atualmente, sou estudante de Engenharia de Computação na UFSM em período inte
 
 Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco aprofundar meu conhecimento, com foco especial em agilizar processos demorados com a utilização de IA e criar sites responsivos.
 
----
+
 
 ## Minhas Competências em linguagens e tecnologias
 
@@ -23,7 +23,7 @@ Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco 
 | MySQL            | 8/10                  |
 | Distros Linux    | 9/10                  |
 
----
+
 
 ## Conecte-se comigo
 
