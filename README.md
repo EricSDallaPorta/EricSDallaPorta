@@ -8,20 +8,20 @@ Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco 
 
 ## Minhas Competências em linguagens e tecnologias
 
-| Competência | Nível de Proficiência |a
-|-------------|-----------------------|
-| C           | 9/10                  |
-| C++         | 9/10                  |
-| Java        | 7/10                  |
-| Python      | 9/10                  |
-| HTML e CSS  | 10/10                 |
-| JavaScript  | 9/10                  |
-| Angular              | 8/10                  |
-| Django               | 7/10                  |
-| React                | 9/10                  |
-| Bootstrap            | 9/10                  |
-| MySQL                | 8/10                  |
-| Distros Linux        | 9/10                  |
+| Competência      | Nível de Proficiência |
+|------------------|-----------------------|
+| C                | 9/10                  |
+| C++              | 9/10                  |
+| Java             | 7/10                  |
+| Python           | 9/10                  |
+| HTML e CSS       | 10/10                 |
+| JavaScript       | 9/10                  |
+| Angular          | 8/10                  |
+| Django           | 7/10                  |
+| React            | 9/10                  |
+| Bootstrap        | 9/10                  |
+| MySQL            | 8/10                  |
+| Distros Linux    | 9/10                  |
 
 ---
 
