@@ -6,7 +6,7 @@ Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco 
 
 
 
-## Minhas Competências em linguagens e tecnologias
+## Minhas Competências 
 
 | Competência      | Nível de Proficiência |
 |------------------|-----------------------|
