@@ -26,4 +26,4 @@ Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco 
 
 - 📧 Email: [ericdasilvadalaporta@gmail.com](mailto:ericdasilvadalaporta@gmail.com)
 - 📸 Instagram: [@ericwdallap](https://www.instagram.com/ericwdallap/)
-- 📱 WhatsApp: [+55 55 3443-3434](https://wa.me/5599344334)
+- 📱 WhatsApp: [+55 55 9934-4334](https://wa.me/5599344334)
