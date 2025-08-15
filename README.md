@@ -10,18 +10,15 @@ Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco 
 
 | Competência      | Nível de Proficiência |
 |------------------|-----------------------|
-| C                | 9/10                  |
-| C++              | 9/10                  |
+| C e C++          | 9/10                  |
 | Java             | 7/10                  |
 | Python           | 9/10                  |
 | HTML e CSS       | 10/10                 |
-| JavaScript       | 9/10                  |
 | Angular          | 8/10                  |
 | Django           | 7/10                  |
 | React            | 9/10                  |
 | Bootstrap        | 9/10                  |
 | MySQL            | 8/10                  |
-| Distros Linux    | 9/10                  |
 
 
 
@@ -29,4 +26,4 @@ Tenho grande interesse em Front-end, Back-end e Inteligência Artificial. Busco 
 
 - 📧 Email: [ericdasilvadalaporta@gmail.com](mailto:ericdasilvadalaporta@gmail.com)
 - 📸 Instagram: [@ericwdallap](https://www.instagram.com/ericwdallap/)
-- 📱 WhatsApp: [+55 99 3443-3434](https://wa.me/5599344334)
+- 📱 WhatsApp: [+55 55 3443-3434](https://wa.me/5599344334)
